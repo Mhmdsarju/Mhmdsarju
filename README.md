@@ -5,7 +5,7 @@
 
 ### Full Stack Developer • MERN Stack • TypeScript • AI Engineering • PERN • SQL • Scalable Architecture • System Design • API Design
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Muhammed+Sarjun;Full+Stack+Developer;Building+Scalable+Web+Applications;MERN+Stack+Developer;TypeScript+Developer;AI+Engineering+%7C+Agentic+AI;RAG+%7C+LangChain+%7C+LangGraph;System+Design+%7C+Clean+Architecture;DevOps+Learner;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Mohammed+Sarjun;Full+Stack+Developer;Building+Scalable+Web+Applications;MERN+Stack+Developer;TypeScript+Developer;AI+Engineering+%7C+Agentic+AI;RAG+%7C+LangChain+%7C+LangGraph;System+Design+%7C+Clean+Architecture;DevOps+Learner;Always+Learning+🚀" />
 
 <br>
 
