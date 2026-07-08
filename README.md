@@ -1,18 +1,29 @@
+
 <div align="center">
 
-# 👋 Hi, I'm Muhammed Sarjun
+# 👋 Hi, I'm Mohammed Sarjun
 
-### Full Stack Developer • MERN Stack • TypeScript • AI Engineering
+### Full Stack Developer • MERN Stack • TypeScript • AI Engineering • PERN • SQL • Scalable Architecture • System Design • API Design
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=26&duration=3500&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;MERN+%7C+TypeScript+%7C+PostgreSQL;AI+Engineering+%7C+RAG+%7C+LangChain+%7C+LangGraph;System+Design+%7C+Clean+Architecture;DevOps+Learner;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Muhammed+Sarjun;Full+Stack+Developer;Building+Scalable+Web+Applications;MERN+Stack+Developer;TypeScript+Developer;AI+Engineering+%7C+Agentic+AI;RAG+%7C+LangChain+%7C+LangGraph;System+Design+%7C+Clean+Architecture;DevOps+Learner;Always+Learning+🚀" />
 
-<p>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<br>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge)
+<a href="https://www.linkedin.com/in/mhmdsarju">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mhmdsarju@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mhmdsarju">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=mhmdsarju&style=for-the-badge)
 
 </div>
 
@@ -20,150 +31,187 @@
 
 # 🚀 About Me
 
-I'm a Full Stack Developer focused on building scalable, maintainable, and enterprise-grade applications.
-
-* 💻 Building modern applications with the MERN Stack
-* ⚡ Developing scalable backends using Node.js & TypeScript
-* 🏗️ Passionate about Clean Architecture & System Design
-* 🤖 Exploring AI Engineering, Agentic AI, RAG, LangChain & LangGraph
-* ☁️ Learning DevOps, Docker, CI/CD and Cloud Technologies
-* 📚 Continuously improving DSA and software engineering skills
+- 💻 Full Stack Developer passionate about building scalable and modern web applications.
+- ⚡ Building backend systems using Node.js, Express.js and TypeScript.
+- 🏗️ Interested in Clean Architecture, System Design and Enterprise Software Engineering.
+- 🤖 Currently exploring Artificial Intelligence, Agentic AI, RAG, LangChain, LangGraph and MCP.
+- ☁️ Learning DevOps, Cloud Infrastructure and Distributed Systems.
+- 📚 Continuously improving Data Structures & Algorithms and software engineering principles.
+- 🚀 Passionate about learning new technologies and solving real-world problems.
 
 ---
 
 # 🧠 Currently Learning
 
-* Artificial Intelligence
-* Agentic AI
-* Retrieval-Augmented Generation (RAG)
-* LangChain
-* LangGraph
-* MCP
-* Prompt Engineering
-* Clean Architecture
-* System Design
-* DevOps
-* Docker
-* Kubernetes
-* Redis
-* Apache Kafka
-* PostgreSQL Performance
-* Distributed Systems
-* DSA
+- 🤖 Artificial Intelligence (AI)
+- 🧠 Agentic AI
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🔗 LangChain
+- 🕸️ LangGraph
+- 🧩 Model Context Protocol (MCP)
+- 💬 Prompt Engineering
+- 🏗️ Clean Architecture
+- 🏛️ System Design
+- ☁️ DevOps
+- 🐳 Docker
+- ☸️ Kubernetes
+- ⚙️ GitHub Actions
+- 🔐 OAuth 2.0 & JWT Authentication
+- 💙 TypeScript
+- 🗄️ PostgreSQL
+- 🍃 MongoDB
+- ⚡ Redis
+- 📨 Apache Kafka
+- 🔄 WebSockets
+- 📹 WebRTC
+- 📱 Progressive Web Apps (PWA)
+- 🔺 Prisma ORM
+- 🧪 Prometheus
+- 📈 Grafana
+- ⚛️ Redux Toolkit
+- 🐻 Zustand
+- 📊 Data Structures & Algorithms (DSA)
+- 📐 UML
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,python"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 </p>
 
-### AI
+### ☁️ DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,githubactions,prometheus,grafana" />
 </p>
 
-**AI Stack:** LangChain • LangGraph • RAG • Agentic AI • MCP
-
-### DevOps
+### 📨 Messaging & Real-Time
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions"/>
+<img src="https://skillicons.dev/icons?i=kafka" />
 </p>
 
-### Tools
+**Technologies:** WebSockets • Socket.IO • WebRTC
+
+### 🤖 AI & LLM
+
+- Artificial Intelligence
+- Agentic AI
+- RAG
+- LangChain
+- LangGraph
+- MCP
+- Prompt Engineering
+
+### 🏗️ Architecture
+
+- Clean Architecture
+- Modular Monolith
+- REST API Design
+- RBAC
+- OAuth 2.0
+- JWT Authentication
+- Scalable Backend Systems
+- Distributed Systems
+- Enterprise Application Design
+
+### ⚛️ State Management
+
+- Redux Toolkit
+- Zustand
+- TanStack Query
+
+### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,prisma" />
+</p>
+
+### 📚 Other Technologies
+
+- Progressive Web Apps (PWA)
+- Prisma ORM
+- Prometheus
+- Grafana
+- Apache Kafka
+- Redis
+- OAuth 2.0
+- JWT
+- WebSockets
+- WebRTC
+- DSA
+- UML
+
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mhmdsarju&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdsarju&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🚀 Featured Project
+# 🔥 GitHub Streak
 
-## ResolveHub
+<p align="center">
 
-Enterprise Incident Management Platform
+<img src="https://streak-stats.demolab.com?user=mhmdsarju&theme=tokyonight&hide_border=true"/>
 
-### Highlights
-
-* Enterprise Authentication
-* RBAC
-* Multi-Organization Support
-* Incident Management
-* War Rooms
-* Real-time Collaboration
-* Task Management
-* WebRTC
-* Socket.IO
-* Redis
-* Apache Kafka
-* PostgreSQL
-* MongoDB
-* Audit Logs
-* Analytics Dashboard
-* Monitoring Integrations
-* Clean Architecture
-* Modular Monolith
-
----
-
-# 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-# 🛠️ Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,ts,js,html,css,tailwind,mongodb,postgres,redis,docker,aws,linux,git,github,postman,vscode,figma"/>
 </p>
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=tokyonight\&no-frame=true\&row=1\&column=7)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mhmdsarju&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+> **"I believe great software is built through continuous learning, thoughtful architecture, clean code, and solving real-world problems."**
 
 ---
 
 <div align="center">
 
-### 💡 "Great software is built through continuous learning, thoughtful design, and solving real-world problems."
+### 🌱 Always Learning • Always Building • Always Improving
 
-⭐ If you like my work, consider giving a star to my repositories.
+Thanks for visiting my profile!
+
+⭐ Don't forget to check out my repositories.
 
 </div>
+
